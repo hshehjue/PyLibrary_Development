@@ -1,7 +1,7 @@
 # Instruction how to use best-feature package
-#### Installation: 
+### Installation: 
 * pip install best_feature
-#### Instruction for the use:
+### Instruction for the use:
 * **Pre-processing:** train set is only needed 
 * **Caution:** 
   - train set is required to be partitioned into X train and y train ("sklearn.model_selection - train_test_split" recommended).
