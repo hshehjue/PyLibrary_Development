@@ -1,5 +1,4 @@
-# Instruction how to use model selection package
-## Section telling how to install the modules 
+# Instruction how to use best-feature package
 #### Installation: *pip install best_feature*
 #### Instruction for the use:
 * **Pre-processing:** train set is only needed 
