@@ -1,6 +1,7 @@
 # best-feature 
 #### Model Name: *best_feature*
 #### Version: *0.1.1*
+#### Distribution Date: 12/28/2021
 #### Author: *SeungHeon Han*
 #### Email: *seung225@gwu.edu*
 #### Description:
