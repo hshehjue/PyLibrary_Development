@@ -1,5 +1,6 @@
 # Instruction how to use best-feature package
-#### Installation: *pip install best_feature*
+#### Installation: 
+* pip install best_feature
 #### Instruction for the use:
 * **Pre-processing:** train set is only needed 
 * **Caution:** 
